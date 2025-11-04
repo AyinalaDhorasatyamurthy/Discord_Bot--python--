@@ -1,5 +1,3 @@
-<img width="793" height="815" alt="Screenshot 2025-11-04 231845" src="https://github.com/user-attachments/assets/92d22138-0300-443a-a004-f83db12e2214" /># Discord Bot
-
 A feature-rich Discord bot built with Python and discord.py, featuring AI chat, music, moderation, utilities, and more!
 
 ## 🚀 Features
