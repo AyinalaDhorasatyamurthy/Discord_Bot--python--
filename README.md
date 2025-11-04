@@ -106,6 +106,7 @@ A feature-rich Discord bot built with Python and discord.py, featuring AI chat, 
 - `!crypto [coin] [currency]` - Crypto prices
 - `!serverinfo` - Server information
 - `!userinfo [@user]` - User information
+![Uploading image.png…]()
 
 
 ### 📊 Statistics
