@@ -1,4 +1,4 @@
-# Discord Bot
+<img width="793" height="815" alt="Screenshot 2025-11-04 231845" src="https://github.com/user-attachments/assets/92d22138-0300-443a-a004-f83db12e2214" /># Discord Bot
 
 A feature-rich Discord bot built with Python and discord.py, featuring AI chat, music, moderation, utilities, and more!
 
@@ -106,7 +106,10 @@ A feature-rich Discord bot built with Python and discord.py, featuring AI chat, 
 - `!crypto [coin] [currency]` - Crypto prices
 - `!serverinfo` - Server information
 - `!userinfo [@user]` - User information
-![Uploading image.png…]()
+<img width="793" height="815" alt="Screenshot 2025-11-04 231845" src="https://github.com/user-attachments/assets/1b0dcc35-22b5-4c3d-b6bc-578db8e7465a" />
+  
+
+
 
 
 ### 📊 Statistics
