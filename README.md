@@ -143,3 +143,8 @@ A feature-rich Discord bot built with Python and discord.py, featuring AI chat, 
    ```bash
    git clone https://github.com/yourusername/discord-bot.git
    cd discord-bot
+
+
+
+  **BY: AYINALA DHORASATYAMURTHY**
+  **E-Mail: Dhorasatyamurthyayinala@gmail.com**
