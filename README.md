@@ -24,6 +24,9 @@ C:\Users\ASUS\OneDrive\Documents\discord_prj\ffmpeg\bin\ffmpeg.exe
 **Key Point:**
 - The project will function correctly only if `ffmpeg.exe` is present in the specified directory. Please verify its existence before running any project-related tasks.
 
+  
+<img width="7652" height="4368" alt="image" src="https://github.com/user-attachments/assets/6d4d4745-9ebf-4993-bf68-225a70655661" />
+
 ## 📜 Command List
 
 ### 🤖 AI Commands
