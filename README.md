@@ -1,6 +1,8 @@
 A feature-rich Discord bot built with Python and discord.py, featuring AI chat, music, moderation, utilities, and more!
 
 ## 🚀 Features
+![WhatsApp Image 2025-11-04 at 20 14 11_fb41e815](https://github.com/user-attachments/assets/84a0ffc6-1364-4bf4-8245-e9ff3bab260e)
+
 
 - 🤖 AI-powered chat and responses
 - 🎵 High-quality music playback
@@ -11,6 +13,16 @@ A feature-rich Discord bot built with Python and discord.py, featuring AI chat, 
 - 📰 Latest news updates
 - 💰 Cryptocurrency prices
 - And much more!
+### Important Note for Project Setup
+
+When working on the project, ensure that the `ffmpeg.exe` file is located in the following directory:
+
+```
+C:\Users\ASUS\OneDrive\Documents\discord_prj\ffmpeg\bin\ffmpeg.exe
+```
+
+**Key Point:**
+- The project will function correctly only if `ffmpeg.exe` is present in the specified directory. Please verify its existence before running any project-related tasks.
 
 ## 📜 Command List
 
